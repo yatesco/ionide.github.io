@@ -2,15 +2,23 @@
 title: "Getting Started"
 bg: purple
 color: white
-style: center
+style: left
 fa-icon: plug
 ---
 
 
 # Getting Started
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+As Ionide is built on Atom, you may also want to peruse their [Getting Started documentations](https://atom.io/docs)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The easiest way to get Ionide is to install it from Atom itself. In Atom, open the **Settings** pane and navigate to the **Install** tab. There, you can search for *ionide-installer* package and click **Install** button to install it.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Alternatively, if you are more comfortable using the command line, you can install it using *apm*:
+
+~~~
+apm install ionide-installer
+~~~
+
+The first time you start Atom after installing the *ionide-installer* package, you will have to wait a few seconds for the installer to determine which Ionide packages it needs to install.
+
+Also, integration with project scaffolding, requires having [*generator-fsharp*](https://www.npmjs.com/package/generator-fsharp) installed - please follow instructions on the *generator-fsharp* page to install it.

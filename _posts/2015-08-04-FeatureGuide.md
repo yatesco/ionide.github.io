@@ -1,0 +1,39 @@
+---
+title: "Guide"
+bg: orange
+color: white
+style: left
+fa-icon: gears
+---
+
+# Feature Guide
+
+### F# IDE
+
+* Syntax highlighting
+* Error highlighting
+* Autocomplete
+* Tooltips
+* Quick Info Toolbar
+* Usages highlighting
+* Formatting source file
+* F# Interactive (REPL) panel
+* Go-to declaration
+
+### Paket integration
+
+* Paket initialization
+* Adding, installing, updating packages from solution or current project ( allows to choose version of package)
+* Removing packages from solution or current project
+* Converting from Nuget, simplify dependency graph, turning on auto-restore for solution.
+* Listing outdated packages
+
+### Fake integration
+
+* Running any build target defined in FAKE build script
+* Panel in which you can display output of any FAKE build run in current Atom session ( including currently running builds)
+
+### F# Project scaffolding
+
+* Integration with [F# yeoman generator](https://www.npmjs.com/package/generator-fsharp)
+* Possibility to create new empty solutions or projects ( multiple templates for most popular project types)
