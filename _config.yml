@@ -21,7 +21,7 @@ description: "Set of Atom plugins for F# development"
 source_link: "https://github.com/fsprojects/atom-fsharp"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
-google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: UA-67832524-1
 
 
 ### template colors, used site-wide via css ###
