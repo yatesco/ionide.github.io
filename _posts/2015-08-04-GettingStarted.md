@@ -6,7 +6,6 @@ style: left
 fa-icon: plug
 ---
 
-
 # Getting Started
 
 F# needs to be installed on your system in order to use Ionide:

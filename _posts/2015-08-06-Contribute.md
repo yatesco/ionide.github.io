@@ -6,7 +6,6 @@ style: left
 fa-icon: code-fork
 ---
 
-
 # Contribute
 
 Ionide is an open source project hosted on [Github](https://github.com/ionide)  
