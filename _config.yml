@@ -12,6 +12,7 @@ timezone: null
 lsi: false
 markdown: kramdown
 highlighter: pygments
+encoding: utf-8
 
 
 ### content configuration ###
