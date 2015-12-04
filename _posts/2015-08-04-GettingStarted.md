@@ -14,6 +14,7 @@ F# needs to be installed on your system in order to use Ionide:
 * [Installing F# on OSX](http://fsharp.org/use/mac/)
 * [Installing F# on Windows](http://fsharp.org/use/windows/)
 
+## Atom
 
 The easiest way to get Ionide is via the Atom package manager. In Atom, open the **Settings** pane and navigate to the **Install** tab. There, you can search for *ionide-installer* package and click **Install** button to install it.
 
@@ -30,3 +31,9 @@ The first time you start Atom after installing the *ionide-installer* package, y
 If you're interested in how Ionide functions within Atom, checkout the [Atom Getting Started Documentation](https://atom.io/docs)
 
 NOTE - [Ionide-Yeoman](https://atom.io/packages/ionide-yeoman), the F# Project Scaffolding Tool, requires having [*generator-fsharp*](https://www.npmjs.com/package/generator-fsharp) installed on your system - please follow instructions on the *generator-fsharp* page to install it.
+
+## VS Code
+
+Ionide plugins for VS Code can be installed using new [VS Code extension gallery](https://marketplace.visualstudio.com/#VSCode) - [Ionide-fsharp](https://marketplace.visualstudio.com/items/Ionide.Ionide-fsharp) is one of the featured extensions there, and there are also individual plugins for [Paket](https://marketplace.visualstudio.com/items/Ionide.Ionide-Paket) and [FAKE](https://marketplace.visualstudio.com/items/Ionide.Ionide-FAKE).
+
+If you're interested in how Ionide functions within VS Code, checkout the [VS Code Getting Started Documentation](https://code.visualstudio.com/Docs)
