@@ -14,6 +14,9 @@ F# needs to be installed on your system in order to use Ionide:
 * [Installing F# on OSX](http://fsharp.org/use/mac/)
 * [Installing F# on Windows](http://fsharp.org/use/windows/)
 
+**FSC** _(F# Compiler)_ and **FSI/fsharpi** on Mono_(F# Interactive)_ need to be addeed to your system **PATH**.
+The default location on Windows is `C:\Program Files (x86)\Microsoft SDKs\F#\4.0\Framework\v4.0`
+
 ## Atom
 
 The easiest way to get Ionide is via the Atom package manager. In Atom, open the **Settings** pane and navigate to the **Install** tab. There, you can search for *ionide-installer* package and click **Install** button to install it.
