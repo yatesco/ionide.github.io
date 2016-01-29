@@ -8,14 +8,17 @@ fa-icon: plug
 
 # Getting Started
 
-F# needs to be installed on your system in order to use Ionide:
+F# 3.1 needs to be installed on your system in order to use Ionide
+[You can download F# 3.1 here for Windows](https://www.microsoft.com/en-us/download/details.aspx?id=44011)
+
+For more detailed instructions on installing F# :
 
 * [Installing F# on Linux](http://fsharp.org/use/linux/)
 * [Installing F# on OSX](http://fsharp.org/use/mac/)
 * [Installing F# on Windows](http://fsharp.org/use/windows/)
 
 **FSC** _(F# Compiler)_ and **FSI/fsharpi** on Mono _(F# Interactive)_ need to be addeed to your system **PATH**.
-The default location on Windows is `C:\Program Files (x86)\Microsoft SDKs\F#\4.0\Framework\v4.0`
+The default location on Windows is `C:\Program Files (x86)\Microsoft SDKs\F#\3.1\Framework\v4.0`
 
 ## Atom
 
