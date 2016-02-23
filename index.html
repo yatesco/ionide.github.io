@@ -1,4 +1,5 @@
 ---
+date: 2015-08-21
 ---
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
@@ -28,7 +29,7 @@
 
     {% for page in site.posts reversed %}
       {% capture id %}{{ page.id | remove:'/' | downcase }}{% endcapture %}
-      <div id="{{id}}" class="section p-{{id}}">
+      <div id="{{id}}" class="section p-{{id}} d-{{id}}">
         {% if page.icon %}
         <div class="subtlecircle sectiondivider imaged">
           <img src="{{page.icon}}" alt="section icon" />

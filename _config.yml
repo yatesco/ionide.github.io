@@ -1,20 +1,3 @@
----
-
-port: 4000
-host: 0.0.0.0
-safe: false
-
-
-### site serving configuration ###
-exclude: [CNAME, README.md, .gitignore]
-permalink: / ## disables post output
-timezone: null
-lsi: false
-markdown: kramdown
-highlighter: rouge
-encoding: utf-8
-
-
 ### content configuration ###
 title:       "Ionide - Crossplatform F# Editor"
 keywords:    "Ionide, F#, FSharp, Editor, IDE, Crossplatform, Windows, Mac, Linux, Atom"
