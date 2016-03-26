@@ -8,5 +8,5 @@ fa-icon: code-fork
 
 # Contribute
 
-Ionide is an open source project hosted on [Github](https://github.com/ionide)  
+Ionide is an open source project hosted on [GitHub](https://github.com/ionide)  
 We accept Pull Requests, new features proposals and any suggestions on how we can make Ionide better!
